@@ -1,10 +1,8 @@
 # PDFFilesConversion
 This repository contains an asp.net project with source code. It will help you for converting files to pdf format.
 
-# Supported Platform
-- Windows
-
 # System Requirement
+- Windows
 - Visual Studio 2013
 - .Net Framework 4.0 or later
 - Any latest browsers (Firefox, Chrome, Safari etc. )
@@ -19,5 +17,5 @@ This repository contains an asp.net project with source code. It will help you f
   - GroupDocs.Conversion-cloud
   - GroupDocs.Storage-cloud
 
-# Resources
+# Documentation
 - [Wiki Link](https://github.com/Talmeez/PDFFilesConversion/wiki)
